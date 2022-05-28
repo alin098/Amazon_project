@@ -1,0 +1,7 @@
+login = "+37477900413"
+password = "1234567/*-"
+wrongLogin = "374"
+wrongPassword = "1235555555555"
+searchProduct = "Yoga mat"
+errorMessage = "Your password is incorrect"
+#"To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below."
